@@ -1,7 +1,7 @@
 # Simple Password Generator Project 
 (Updated)
 
-  ![Screenshot of webpage](./assets/Screenshot(15).png)
+![Screenshot of webpage](./assets/Screenshot(15).png)
 
 ## Overview
 
